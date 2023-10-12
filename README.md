@@ -1,3 +1,3 @@
-## docker
+## Scripts
 
-Aqui será postado scripts shell que executa os comandos que você forneceu para instalar o Docker, o Composer e o Portainer no Ubuntu:
+Aqui será postado scripts shell que executa os comandos de instalação de softwares e app:
