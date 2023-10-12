@@ -34,6 +34,6 @@ echo "Instalando o Firefox..."
 sudo apt install firefox -y
 
 # Concluído
-echo "Instalação do Firefox concluída."
+echo "Instalação do Firefox via PPA concluída com sucesso!"
 
 # Fim do script
